@@ -9,6 +9,7 @@ There are five major step in this script:
 5. calculate the average of each variable for each subject and activity group
 
 The raw data contains many files that are used:
+
 1. X_test and X_train-these contain all the measurements for each subject and activity
 2. Y_test and Y_train-these contain the activity ids for each row
 3. subject_test and subject_train-these contain the subject ids for each row
