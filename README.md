@@ -24,7 +24,7 @@ The raw data contains many files that are used:
 
 The resulting data set contains the following data set:
 
-*Subject_id-the id of each subject
-*activity_label-the descriptions of each activity
-*all the averages of the means and std of the raw data (68 variables containing mean() or std())
+* Subject_id-the id of each subject
+* activity_label-the descriptions of each activity
+* all the averages of the means and std of the raw data (68 variables containing mean() or std())
 
