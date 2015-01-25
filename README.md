@@ -16,6 +16,7 @@ The raw data contains many files that are used:
 4. activity_labels-this maps the activity ids (#2) to the activity labels
 5. features-contains the variable names for #1
 
+
 * For step #1 we have to merge #1, #2, #3 together by rows. We also need to rename the variable names from features to the data from #1.
 * For step #3 we add the activity_labels based on the activity id from the data created from the previous step.
 
